@@ -1,0 +1,14 @@
+{
+    "ODataV3-db-ANALYTICS": {
+        "object_owner": {
+            "roles": [
+                "ODataV3_ANALYTICS::EXTERNAL_ACCESS_G"
+            ]
+        },
+        "application_user": {
+            "roles": [
+                "ODataV3_ANALYTICS::EXTERNAL_ACCESS"
+            ]
+        }
+    }
+}
